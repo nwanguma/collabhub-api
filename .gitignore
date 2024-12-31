@@ -63,3 +63,4 @@ dump.rdb
 
 # Sentry Config File
 .sentryclirc
+.vercel
