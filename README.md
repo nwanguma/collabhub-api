@@ -84,6 +84,9 @@ Working demo can be found here [Collabhub](https://collabhub.xyz)
    npm run test:watch
    ```
 
+8. Connect to frontend (optional):
+   The frontend lives here [Collabhub-frontend](https://github.com/nwanguma/collabhub-frontend). Please follow instructions in the readme to connect and run the app end-to-end
+
 ---
 
 ## **Usage**
